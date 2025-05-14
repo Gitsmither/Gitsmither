@@ -1,7 +1,7 @@
 ## My contacts:
 
 <div id="badges">
-  <a href="https://t.me/Goy1next1door" target="_blank">
+  <a href="https://xn--80atbicfemrd.xn--p1ai/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emiliakupov/" target="_blank">
